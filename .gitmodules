@@ -1,0 +1,3 @@
+[submodule "core_submodule"]
+	path = core_submodule
+	url = https://github.com/arindam-chk/core_submodule.git
